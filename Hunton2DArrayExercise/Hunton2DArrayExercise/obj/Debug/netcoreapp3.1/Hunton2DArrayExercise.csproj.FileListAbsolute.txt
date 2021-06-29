@@ -1,0 +1,13 @@
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.exe
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.deps.json
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.runtimeconfig.json
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.runtimeconfig.dev.json
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.dll
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\bin\Debug\netcoreapp3.1\Hunton2DArrayExercise.pdb
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.csproj.AssemblyReference.cache
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.AssemblyInfoInputs.cache
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.AssemblyInfo.cs
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.dll
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.pdb
+C:\Users\SMAUG\source\repos\Hunton2DArrayExercise\Hunton2DArrayExercise\obj\Debug\netcoreapp3.1\Hunton2DArrayExercise.genruntimeconfig.cache

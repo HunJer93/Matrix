@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hunton2DArrayExercise/1.0.0": {
+        "runtime": {
+          "Hunton2DArrayExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hunton2DArrayExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
